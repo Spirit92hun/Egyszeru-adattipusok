@@ -1,7 +1,7 @@
 {
-  "name": "jedlik-typescript-vscode-template",
+  "name": "beadando-nemeth-balazs",
   "version": "1.0.0",
-  "description": "Jedlik project template for using TypeScript and Node.js in VS Code.",
+  "description": "Beadandó: Egyszerű adattípusok.",
   "engines": {
     "node": "11.x"
   },
@@ -9,7 +9,7 @@
   "repository": {
     "private": true,
     "type": "git",
-    "url": "https://github.com/nitslaszlo/JedlikTsTemplate"
+    "url": "https://github.com/Spirit92hun/beadando"
   },
   "scripts": {
     "start": "node ./js/app.js",
@@ -18,7 +18,7 @@
     "compile": "%APPDATA%/npm/tsc",
     "nodemon": "%APPDATA%/npm/nodemon --inspect -q ./js/app.js"
   },
-  "author": "Nits László",
+  "author": "Németh Balázs",
   "license": "MIT",
   "devDependencies": {
     "@types/node": "^11.9.4"
