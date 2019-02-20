@@ -27,8 +27,8 @@ export default class Content {
 
 
         
-        res.write("<a href='https://github.com/Spirit92hun/beadando/' target='_blank'>" +
-            "https://github.com/Spirit92hun/beadando/</a><br>");
+        res.write("<a href='https://github.com/Spirit92hun/Egyszeru-adattipusok/' target='_blank'>" +
+            "https://github.com/Spirit92hun/Egyszeru-adattipusok/</a><br>");
         res.end();
     }
 }
